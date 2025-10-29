@@ -1,0 +1,63 @@
+[
+  {
+    "id": "prof1",
+    "name": "Toutique",
+    "username": "@toutique",
+    "platform": "facebook"
+  },
+  {
+    "id": "prof2",
+    "name": "Fiat",
+    "username": "@fiat",
+    "platform": "instagram"
+  },
+  {
+    "id": "prof3",
+    "name": "Fiat Official",
+    "username": "@fiatofficial",
+    "platform": "facebook"
+  },
+  {
+    "id": "prof4",
+    "name": "Fiat US",
+    "username": "@fiatus",
+    "platform": "twitter"
+  },
+  {
+    "id": "prof5",
+    "name": "Fiat Motors",
+    "username": "fiat-motors",
+    "platform": "linkedin"
+  },
+  {
+    "id": "prof6",
+    "name": "Mercedes-Benz",
+    "username": "@mercedesbenz",
+    "platform": "instagram"
+  },
+  {
+    "id": "prof7",
+    "name": "Mercedes Official",
+    "username": "@mercedesofficial",
+    "platform": "facebook"
+  },
+  {
+    "id": "prof8",
+    "name": "BMW",
+    "username": "@bmw",
+    "platform": "instagram"
+  },
+  {
+    "id": "prof9",
+    "name": "Audi",
+    "username": "@audi",
+    "platform": "instagram"
+  },
+  {
+    "id": "prof10",
+    "name": "Volkswagen",
+    "username": "@volkswagen",
+    "platform": "facebook"
+  }
+]
+

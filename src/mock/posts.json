@@ -1,0 +1,87 @@
+[
+  {
+    "id": "p1",
+    "campaignId": "c1",
+    "profiles": [{"id": "prof1", "name": "Fiat", "username": "@fiat", "platform": "instagram"}],
+    "content": "🚗 The legend is back. Welcome to Fiat!",
+    "media": [],
+    "publishDate": "2026-01-18T08:00:00Z",
+    "status": "sent",
+    "createdBy": "user1",
+    "createdAt": "2026-01-15T10:00:00Z",
+    "updatedAt": "2026-01-18T08:00:00Z"
+  },
+  {
+    "id": "p2",
+    "campaignId": "c1",
+    "profiles": [{"id": "prof1", "name": "Fiat", "username": "@fiat", "platform": "instagram"}],
+    "content": "For those who seek the extraordinary and expect more.",
+    "media": [],
+    "publishDate": "2026-01-19T08:00:00Z",
+    "status": "sent",
+    "createdBy": "user1",
+    "createdAt": "2026-01-15T10:30:00Z",
+    "updatedAt": "2026-01-19T08:00:00Z"
+  },
+  {
+    "id": "p3",
+    "campaignId": "c1",
+    "profiles": [{"id": "prof1", "name": "Fiat", "username": "@fiat", "platform": "instagram"}],
+    "content": "From the city lights to the mountain peaks...",
+    "media": [],
+    "publishDate": "2026-01-19T09:23:00Z",
+    "status": "scheduled",
+    "createdBy": "user1",
+    "createdAt": "2026-01-15T11:00:00Z",
+    "updatedAt": "2026-01-15T11:00:00Z"
+  },
+  {
+    "id": "p4",
+    "campaignId": "c1",
+    "profiles": [{"id": "prof1", "name": "Fiat", "username": "@fiat", "platform": "instagram"}],
+    "content": "The Fiat is more than just a car. It's a way of life, a symbol of individuality. Wherever it goes, it turns heads. 🏙️ #FiatExperience #UrbanAdventure",
+    "media": [],
+    "publishDate": "2026-01-20T09:00:00Z",
+    "status": "draft",
+    "createdBy": "user1",
+    "createdAt": "2026-01-16T10:00:00Z",
+    "updatedAt": "2026-01-16T10:00:00Z"
+  },
+  {
+    "id": "p5",
+    "campaignId": "c1",
+    "profiles": [{"id": "prof1", "name": "Fiat", "username": "@fiat", "platform": "instagram"}],
+    "content": "A week full of adventure. Endless energy. Timeless style. That was the #FiatExperienceWeek. Are you ready to experience it? 🚘🌟",
+    "media": [],
+    "publishDate": "2026-01-21T09:00:00Z",
+    "status": "draft",
+    "createdBy": "user1",
+    "createdAt": "2026-01-16T11:00:00Z",
+    "updatedAt": "2026-01-16T11:00:00Z"
+  },
+  {
+    "id": "p6",
+    "campaignId": "c2",
+    "profiles": [{"id": "prof1", "name": "Fiat", "username": "@fiat", "platform": "instagram"}],
+    "content": "Innovation drives us forward. Join the journey!",
+    "media": [],
+    "publishDate": "2026-01-09T09:00:00Z",
+    "status": "sent",
+    "createdBy": "user1",
+    "createdAt": "2026-01-05T12:00:00Z",
+    "updatedAt": "2026-01-09T09:00:00Z"
+  },
+  {
+    "id": "p7",
+    "campaignId": "c3",
+    "profiles": [{"id": "prof1", "name": "Fiat", "username": "@fiat", "platform": "instagram"}],
+    "content": "The future is now. Let's ignite it together!",
+    "media": [],
+    "publishDate": "2026-01-24T10:00:00Z",
+    "status": "scheduled",
+    "createdBy": "user1",
+    "createdAt": "2026-01-20T14:00:00Z",
+    "updatedAt": "2026-01-20T14:00:00Z"
+  }
+]
+

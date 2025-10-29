@@ -1,0 +1,287 @@
+{
+  "campaigns": [
+    {
+      "id": "c1",
+      "name": "New Fiat 500 GT",
+      "color": "#4361EE",
+      "type": "New product releas",
+      "uniqueId": "h3g7b2j9d4e0f1c8a6i5",
+      "startDate": "2026-01-18",
+      "endDate": "2026-01-21",
+      "repeat": "none",
+      "brief": "Introducing the 500e Giorgio Armani Collector's Edition\n\nFiat and Giorgio Armani have collaborated to present a remarkable tribute to Italian excellence: the 500e Giorgio Armani Collector's Edition. This exclusive model is more than just a car; it's a symbol of style and sophistication, capturing the essence of Italian craftsmanship.\n\nKey Features:\n• Distinctive Design: Featuring the iconic \"GA\" logo on the wheels and seats, this edition is a true collector's item.\n• Signature Touches: The designer's signature decorates the dashboard, rear window, and inside the doors, adding a personal flair to each vehicle.\n• Elegant Aesthetics: Every detail has been carefully crafted to ensure that the 500e stands out on the road with unmatched elegance.\n\nWhy Choose the 500e Giorgio Armani Collector's Edition?\n• Exclusivity: Limited availability makes this model a rare gem for enthusiasts and collectors alike.\n• Sustainable Luxury: Merging luxury with eco-friendliness, the 500e is designed for those who value the environment without sacrificing style.\n• Italian Heritage: Embrace the rich tradition of Italian design and innovation with every drive.\n\nExperience the perfect blend of fashion and functionality with the 500e Giorgio Armani Collector's Edition. Enhance your driving experience and make a statement wherever you go!",
+      "utmTemplateId": "utm1",
+      "utmParams": {
+        "source": "social",
+        "medium": "post",
+        "campaign": "new_fiat_500_gt",
+        "content": "{{post_type}}"
+      },
+      "contentLabels": [
+        "New Fiat 500 GT"
+      ],
+      "status": "running",
+      "visibility": "global",
+      "createdBy": "user1",
+      "createdAt": "2026-01-15T10:00:00Z",
+      "updatedAt": "2026-01-18T14:30:00Z"
+    },
+    {
+      "id": "c2",
+      "name": "Drive Innovation Forward Together",
+      "color": "#4361EE",
+      "type": "Brand",
+      "startDate": "2026-01-09",
+      "endDate": "2026-01-13",
+      "repeat": "none",
+      "brief": "A week-long campaign showcasing innovation in automotive industry",
+      "utmTemplateId": "utm1",
+      "utmParams": {
+        "source": "social",
+        "medium": "post",
+        "campaign": "drive_innovation"
+      },
+      "contentLabels": [
+        "Innovation"
+      ],
+      "status": "running",
+      "visibility": "global",
+      "createdBy": "user1",
+      "createdAt": "2026-01-05T10:00:00Z",
+      "updatedAt": "2026-01-09T08:00:00Z"
+    },
+    {
+      "id": "c3",
+      "name": "Ignite Your Future Today",
+      "color": "#4361EE",
+      "type": "New product",
+      "startDate": "2026-01-23",
+      "endDate": "2026-01-27",
+      "repeat": "none",
+      "brief": "Launch campaign for future-focused products",
+      "utmTemplateId": "utm1",
+      "utmParams": {
+        "source": "social",
+        "medium": "post",
+        "campaign": "ignite_future"
+      },
+      "contentLabels": [
+        "Future"
+      ],
+      "status": "in-progress",
+      "visibility": "global",
+      "createdBy": "user1",
+      "createdAt": "2026-01-20T10:00:00Z",
+      "updatedAt": "2026-01-20T10:00:00Z"
+    },
+    {
+      "id": "c1761767908629",
+      "name": "test",
+      "color": "#4361EE",
+      "type": "General",
+      "startDate": "2025-10-28T23:00:00.000Z",
+      "endDate": "2025-11-05T23:00:00.000Z",
+      "repeat": "none",
+      "brief": "test",
+      "utmTemplateId": "utm1",
+      "utmParams": {
+        "source": "social",
+        "medium": "post",
+        "campaign": "test"
+      },
+      "contentLabels": [
+        "test"
+      ],
+      "status": "draft",
+      "visibility": "global",
+      "createdBy": "user1",
+      "createdAt": "2025-10-29T19:58:28.629Z",
+      "updatedAt": "2025-10-29T19:58:38.476Z"
+    },
+    {
+      "id": "c1761767942468",
+      "name": "test2",
+      "color": "#10B981",
+      "type": "General",
+      "startDate": "2025-10-27T23:00:00.000Z",
+      "endDate": "2025-10-30T23:00:00.000Z",
+      "repeat": "none",
+      "brief": "<div>g dfsgdůg hfdsjlůg hfdslůg hfjksdlgfsdg fds&nbsp;</div><div>&nbsp;gfds&nbsp;</div><div>fsd gfds g</div>sfd g fsd gfsd gdfgfds gfds gfdsg sertwrtwert. sg",
+      "utmTemplateId": "utm1",
+      "utmParams": {
+        "utm_source": "facebook sf gsdfgsdgsdf",
+        "utm_medium": "{POST_TYPE}",
+        "utm_campaign": "{CAMPAIGN_NAME}",
+        "utm_content": "{POST_ID}"
+      },
+      "contentLabels": [
+        "test2"
+      ],
+      "status": "draft",
+      "visibility": "global",
+      "createdBy": "user1",
+      "createdAt": "2025-10-29T19:59:02.468Z",
+      "updatedAt": "2025-10-29T20:07:34.625Z"
+    },
+    {
+      "id": "c1761768396385",
+      "name": "test2",
+      "color": "#10B981",
+      "type": "General",
+      "startDate": "2025-10-29",
+      "endDate": "2025-11-01",
+      "repeat": "none",
+      "brief": "<div>g dfsgdůg hfdsjlůg hfdslůg hfjksdlgfsdg fds&nbsp;</div><div>&nbsp;gfds&nbsp;</div><div>fsd gfds g</div>sfd g fsd gfsd gdfgfds gfds gfdsg sertwrtwert. sg",
+      "utmTemplateId": "utm1",
+      "utmParams": {
+        "source": "social",
+        "medium": "post",
+        "campaign": "test2"
+      },
+      "contentLabels": [
+        "test2",
+        "wertwertwert",
+        "tterte"
+      ],
+      "status": "draft",
+      "visibility": "global",
+      "createdBy": "user1",
+      "createdAt": "2025-10-29T19:59:02.468Z",
+      "updatedAt": "2025-10-29T20:07:28.023Z"
+    }
+  ],
+  "posts": [
+    {
+      "id": "p1",
+      "campaignId": "c1",
+      "profiles": [
+        {
+          "id": "prof2",
+          "name": "Fiat",
+          "username": "@fiat",
+          "platform": "instagram"
+        }
+      ],
+      "content": "🚗 The legend is back. Welcome to Fiat!",
+      "media": [],
+      "publishDate": "2026-01-18T08:00:00Z",
+      "status": "sent",
+      "createdBy": "user1",
+      "createdAt": "2026-01-15T10:00:00Z",
+      "updatedAt": "2026-01-18T08:00:00Z"
+    },
+    {
+      "id": "p2",
+      "campaignId": "c1",
+      "profiles": [
+        {
+          "id": "prof2",
+          "name": "Fiat",
+          "username": "@fiat",
+          "platform": "instagram"
+        }
+      ],
+      "content": "For those who seek the extraordinary and expect more.",
+      "media": [],
+      "publishDate": "2026-01-19T08:00:00Z",
+      "status": "sent",
+      "createdBy": "user1",
+      "createdAt": "2026-01-15T10:30:00Z",
+      "updatedAt": "2026-01-19T08:00:00Z"
+    },
+    {
+      "id": "p3",
+      "campaignId": "c1",
+      "profiles": [
+        {
+          "id": "prof2",
+          "name": "Fiat",
+          "username": "@fiat",
+          "platform": "instagram"
+        }
+      ],
+      "content": "From the city lights to the mountain peaks...",
+      "media": [],
+      "publishDate": "2026-01-19T09:23:00Z",
+      "status": "scheduled",
+      "createdBy": "user1",
+      "createdAt": "2026-01-15T11:00:00Z",
+      "updatedAt": "2026-01-15T11:00:00Z"
+    }
+  ],
+  "profiles": [
+    {
+      "id": "prof1",
+      "name": "Toutique",
+      "username": "@toutique",
+      "platform": "facebook"
+    },
+    {
+      "id": "prof2",
+      "name": "Fiat",
+      "username": "@fiat",
+      "platform": "instagram"
+    },
+    {
+      "id": "prof3",
+      "name": "Fiat Official",
+      "username": "@fiatofficial",
+      "platform": "facebook"
+    },
+    {
+      "id": "prof4",
+      "name": "Fiat US",
+      "username": "@fiatus",
+      "platform": "twitter"
+    },
+    {
+      "id": "prof5",
+      "name": "Fiat Motors",
+      "username": "fiat-motors",
+      "platform": "linkedin"
+    }
+  ],
+  "utmTemplates": [
+    {
+      "id": "utm1",
+      "name": "New product",
+      "params": {
+        "source": "social",
+        "medium": "post",
+        "campaign": "{{campaign_name}}",
+        "content": "{{post_type}}"
+      },
+      "isDefault": true
+    },
+    {
+      "id": "utm2",
+      "name": "Default template",
+      "params": {
+        "source": "{{source}}",
+        "medium": "{{medium}}",
+        "campaign": "{{campaign_name}}"
+      },
+      "isDefault": false
+    }
+  ],
+  "users": [
+    {
+      "id": "user1",
+      "name": "Jan Cermak",
+      "email": "jan@emplifi.io",
+      "avatar": ""
+    }
+  ],
+  "notes": [
+    {
+      "id": "n1",
+      "content": "Team meeting at 2 PM",
+      "date": "2026-01-20",
+      "repeat": "none",
+      "visibility": "private",
+      "color": "#9CA3AF",
+      "createdBy": "user1",
+      "createdAt": "2026-01-15T10:00:00Z"
+    }
+  ]
+}
